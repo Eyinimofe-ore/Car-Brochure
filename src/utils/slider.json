@@ -1,38 +1,62 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Toyota Corolla",
+    "price": "20,025",
+    "detail": "A compact sedan known for its reliability, fuel efficiency, and affordability.",
+    "image": "./toyota.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Honda Accord",
+    "price": "26,120",
+    "detail": "A midsize sedan offering a comfortable ride, efficient engine options, and advanced safety features.",
+    "image": "./honda1.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Hyundai Elantra",
+    "price": "20,950",
+    "detail": "A stylish compact sedan with great fuel economy and a range of standard tech features.",
+    "image": "./hyundai.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Mazda CX-5",
+    "price": "27,110",
+    "detail": "A compact SUV that combines sporty handling with a refined interior and advanced safety tech.",
+    "image": "./mazda.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Nissan Sentra",
+    "price": "21,320",
+    "detail": "An affordable compact sedan with a comfortable interior and a sleek design.",
+    "image": "./nissan.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Kia Sportage",
+    "price": "27,090",
+    "detail": "A compact SUV that provides ample space, modern technology, and a smooth driving experience.",
+    "image": "./kai.jpg"
+  },
+  {
+    "name": "Volkswagen Jetta",
+    "price": "21,295",
+    "detail": "A compact sedan with a refined interior, efficient engine options, and a smooth ride.",
+    "image": "./Volkswagen.jpg"
+  },
+  {
+    "name": "Chevrolet Malibu",
+    "price": "24,700",
+    "detail": "A midsize sedan with a spacious cabin, modern tech, and a comfortable ride.",
+    "image": "./chevrolet.jpg"
+  },
+  {
+    "name": "Subaru Impreza",
+    "price": "19,795",
+    "detail": "A compact car with standard all-wheel drive and excellent safety ratings.",
+    "image": "./Subaru.jpg"
+  },
+  {
+    "name": "Ford Escape",
+    "price": "28,000",
+    "detail": "A compact SUV with efficient engine options and a roomy interior suitable for families.",
+    "image": "./Ford.jpg"
   }
 ]
